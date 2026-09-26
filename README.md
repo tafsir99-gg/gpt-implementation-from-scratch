@@ -1,5 +1,7 @@
 # GPT from Scratch — Bilingual Byte-Level Language Model
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19oxumXz5n4_dolt28GmlrZXdfTnCYYRX?usp=sharing)
+
 > **Note:** This is a text completion model, not a chatbot. Give it a prompt and it continues the text. It does not answer questions or follow instructions.
 
 A decoder-only Transformer (GPT-style) built entirely from scratch in PyTorch, trained on classical Bangla and English literature. No tokenizer libraries, no pretrained weights — every component is written by hand.
